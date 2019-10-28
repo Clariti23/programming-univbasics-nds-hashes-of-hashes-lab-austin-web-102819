@@ -33,6 +33,7 @@
 
 
 def naming_system
+<<<<<<< HEAD
 
   hash = 
   {label: "Kingdom",
@@ -51,4 +52,17 @@ def naming_system
    sub_category: nil}}     
   
 
+=======
+  # Remember:
+  #  Kingdom
+  #  Phylum
+  #  Class
+  #  Order
+  #  Family
+  #  Genus
+  #  Species
+  # So, if we have the "Kingdom" node we should be able to "tunnel" into the
+  # HoH all the way to Species!
+  hash = 
+>>>>>>> 4491397826ca5114b74e849acae679fd8cf40a16
 end
